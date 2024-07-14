@@ -8,6 +8,13 @@ The repository is organized as follows:
 
 - `notebooks/`: Contains Jupyter notebooks for training and evaluating the WDDN model.
 
+## Next Steps
+
+- [ ] Add discussion on the results of the WDDN model to the notebooks.
+- [ ] Create a module for the WDDN model to make it easier to use in other projects.
+- [ ] Add more detailed documentation on how to use the WDDN model.
+- [ ] Add more examples of using the WDDN model on different time series datasets.
+
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html).
